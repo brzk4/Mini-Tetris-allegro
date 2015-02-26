@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1370389877 source:c:\users\jakub\desktop\tetris 1.0\gra.cpp
+	<allegro.h>
+	"gra.h"
+	"silnik.h"
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1370389637 c:\users\jakub\desktop\tetris 1.0\gra.h
+	"gra.h"
+	"silnik.h"
+	<allegro.h>
+
+1370304759 c:\users\jakub\desktop\tetris 1.0\silnik.h
+	"gra.h"
+	"silnik.h"
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1370303584 source:c:\users\jakub\desktop\tetris 1.0\main.cpp
+	<allegro.h>
+	<iostream>
+	"gra.h"
+	"start.h"
+	"silnik.h"
+	"rozgrywka.h"
+
+1370387411 source:c:\users\jakub\desktop\tetris 1.0\silnik.cpp
+	"gra.h"
+	"silnik.h"
+	<cstdlib>
+	<ctime>
+	<allegro.h>
+	<iostream>
+
+1370339269 source:c:\users\jakub\desktop\tetris 1.0\start.cpp
+	<allegro.h>
+	"start.h"
+
+1370257058 c:\users\jakub\desktop\tetris 1.0\start.h
+
+1368881952 c:\users\jakub\desktop\tetris 1.0\figury.h
+	"gra.h"
+	"silnik.h"
+	<allegro.h>
+
+1368881567 source:c:\users\jakub\desktop\tetris 1.0\figury.cpp
+	"gra.h"
+	"silnik.h"
+	"figury.h"
+
+1370303977 c:\users\jakub\desktop\tetris 1.0\rozgrywka.h
+
+1370386568 source:c:\users\jakub\desktop\tetris 1.0\rozgrywka.cpp
+	<allegro.h>
+	"rozgrywka.h"
+	"gra.h"
+
+1370257186 c:\users\jakub\desktop\tetris 1.0\info.h
+
+1370257967 source:c:\users\jakub\desktop\tetris 1.0\info.cpp
+	<allegro.h>
+	"info.h"
+
